@@ -16,10 +16,17 @@
 
 ---
 
-## 🌐 Connect with Me  
-📧 [Email](mailto:krithikulal321@gmail.com) |  
-💼 [LinkedIn](https://www.linkedin.com/in/krithi-kulal-7b0a082ab) |  
-📂 [GitHub](https://github.com/Krithikulal13)  
+## 🗣 Languages Known  
+- English  
+- Kannada  
+- Tulu  
 
 ---
-⭐️ *"Always curious to learn, build, and innovate with technology."*  
+
+## 🌐 Connect with Me  
+📧 Email: krithikulal321@gmail.com  
+🔗 LinkedIn: [Krithi Kulal](https://www.linkedin.com/in/krithi-kulal-7b0a082ab)  
+
+---
+
+⭐️ *"Always curious to learn, build, and innovate with technology."*
