@@ -16,13 +16,6 @@
 
 ---
 
-## 🗣 Languages Known  
-- English  
-- Kannada  
-- Tulu  
-
----
-
 ## 🌐 Connect with Me  
 📧 Email: krithikulal321@gmail.com  
 🔗 LinkedIn: [Krithi Kulal](https://www.linkedin.com/in/krithi-kulal-7b0a082ab)  
