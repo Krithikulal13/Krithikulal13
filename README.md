@@ -3,7 +3,7 @@
 🎓 Electronics and Communication Engineering (ECE) Graduate  
 💻 Passionate about designing and building responsive web applications  
 🌱 Currently learning Full Stack Development  
-🚀 Seeking entry-level opportunities as a Frontend or Full Stack Web Developer  
+🚀 *Seeking entry-level opportunities as a Frontend or Full Stack Web Developer*
 ✨ Eager to learn, explore new tools, and contribute to impactful projects 
 
 ---
