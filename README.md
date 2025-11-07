@@ -9,8 +9,8 @@
 ---
 
 ## 🛠 Tech Skills  
-- **Frontend:** HTML, CSS, JavaScript, ReactJS 
-- **Backend:** Python, Django  
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python 
 - **Database:** MySQL  
 - **Tools:** VS Code, IDLE 
 
